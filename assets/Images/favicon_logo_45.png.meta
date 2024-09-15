@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "8542777c-d257-4224-bb2e-2e8b23447b9c",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 45,
+  "height": 45,
+  "platformSettings": {},
+  "subMetas": {
+    "favicon_logo_45": {
+      "ver": "1.0.6",
+      "uuid": "8542777c-d257-4224-bb2e-2e8b23447b9c@6c48a",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "8542777c-d257-4224-bb2e-2e8b23447b9c",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 3,
+      "width": 45,
+      "height": 39,
+      "rawWidth": 45,
+      "rawHeight": 45,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
